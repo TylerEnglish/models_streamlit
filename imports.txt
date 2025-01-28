@@ -6,3 +6,9 @@ pandas
 matplotlib
 torch
 tensorflow
+torchvision
+scikit-learn
+plotly
+captum
+shap
+lime
